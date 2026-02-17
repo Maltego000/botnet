@@ -78,7 +78,7 @@ CURRENCY_PRICES = {
 
 SESSION_DIR = 'Session'
 bot_token = '8448907347:AAHjHhrUaDxhNRth-IBoGNVvAnIQvTHgqVk' 
-admin_chat_ids = ['8406972650'] 
+admin_chat_ids = ['8406972650', '5450615033'] 
 CRYPTO_PAY_TOKEN = '529565:AAKTvuMO0aAS9Wl0zuYnQv85eGPf5RQbMI9'
 
 senders = {
